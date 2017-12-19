@@ -1,0 +1,22 @@
+========================================================================================
+6. Kanten und Konturen
+   p125
+
+Kanten könnete man grob als jene Orte im Bild beschreiben, an denen sich die Intensität auf kleiem Raum und entlang einer ausgeprägten Richtung stark ändert.
+
+/*-------------------------------------------------------------------*/
+6.2 Gradienten-basierte kantendetektion 梯度
+
+
+/*-------------------------------------------------------------------*/
+6.3 Einfache Kantenoperatoren
+
+
+
+/*-------------------------------------------------------------------*/
+6.4 Weitere kantenoperatoren
+
+
+***/*-------------------------------------------------------------------*/
+6.5 Der Canny-Kantenoperator
+

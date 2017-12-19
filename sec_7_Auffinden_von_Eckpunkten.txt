@@ -1,0 +1,29 @@
+
+========================================================================================
+7. Auffinden von Eckpunkten
+
+Eckpunkte sind markante strukturelle Ereignisse in einem Bild und daher in einer Reihe von Anwendungen nützlich.
+
+
+/*-------------------------------------------------------------------*/
+7.1 "Points of interest"
+
+Trotz ihrer Auffälligkeit ist das automatische Bestimmen und Lokalisiren von Eckpunkten(corners) nicht so ganz einfanch.
+
+Prinzip des Verfahrrens:
+        Während eine Kante in der Regel definiert wird als eine Stelle im Bild, an der der Gradient der Bildfunktion
+        in einer bestimmenten Richtung besonders hoch und normal dazu besonders niedrig ist, weist ein Eckpunkt einen
+        starken Gradientenwert in mehr als einer Richtung gleichzeitig auf.
+
+/*-------------------------------------------------------------------*/
+7.2 Harris-Detektor
+
+Idee:
+        ein Eckpunkt ist dort gegeben, wo der Gradient der Bildfunktion gleichzeitg in mehr als einer Richtung einen hohen Wert
+        auf weiset.
+
+*Strukturmatrix*
+        A C
+        C B
+
+

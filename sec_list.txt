@@ -1,0 +1,40 @@
+/*-------------------------------------------------------------------*/
+3. Histogramm p41
+   3.6 Das kumulative Histogramm p54
+
+/*-------------------------------------------------------------------*/
+4. Punktoperationen p59
+   4.1 Äanderung der Bildintensität p60
+   4.3 Automatische Kontrastanpassung
+   4.4 Modifizierte Auto-Kontrast-Funktion
+   4.5 Linearer Histogrammausgleich p66
+
+/*-------------------------------------------------------------------*/
+5. Filter p92
+   5.2 Lineare Filter
+   5.3 Formale Eigenschaften linerarer Filter
+   5.4 Nichtlineare Filter p111
+
+/*-------------------------------------------------------------------*/
+6. Kanten und Konturenn p125
+   6.2 Gradienten-basierte Kantendetektion p126
+   6.3 Einfache Kantenoperatoren p129
+   6.5 Der Canny-Kantenoperator p140
+   6.6 Kantenschärfung p145
+
+/*-------------------------------------------------------------------*/
+7. Auffinden von Eckpunkten
+   7.2 Harris-Detektor p156
+
+/*-------------------------------------------------------------------*/
+8 Detektion einfacher Kurven p168
+   8.2 Hough-Transformation
+   8.3 Hough-Algorithmus p175
+
+
+========================================================================================
+18. Einführung in Spektraltechniken
+
+19. Diskrete Fouriertransformation in 2D
+
+20. Diskrete Kosinustransformation(DCT)
